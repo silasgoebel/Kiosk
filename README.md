@@ -1,0 +1,2 @@
+# Kiosk
+Kiosk Freibad Schönbach
